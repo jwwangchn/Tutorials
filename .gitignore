@@ -6,8 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
-idea/*
+.idea/*
 MNIST_data/*
+
+cifar10/*
+mnist/*
+
 
 # Distribution / packaging
 .Python
